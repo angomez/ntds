@@ -6,5 +6,5 @@ The goal of this project is to examine how music tracks relate to each other. Do
 working with music from the genre "Rock" and "hip-hop". Do we observe group of similar artists?
 To answer those questions, we are building a similarity graph between music tracks.
 
-##Report link
+## Report link
 https://www.overleaf.com/read/qdmmyxvcdfsw
