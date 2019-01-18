@@ -13,8 +13,20 @@ https://www.overleaf.com/read/hhmjtyryqgtn
 
 ### ExtraTreesClassifier
 
-Notebook containing the Extra Trees Classifier model, to run it you need to produce the "data.pkl" file from the Data-Creation notebook and put it in the folder.
+Notebook containing the Extra Trees Classifier model, to run it you need to produce the "data.pkl" file from the "full_data_creation.ipynb" notebook and put it in the folder.
 
 ### Music Genre Recognition.ipynb
 
-Notebook containig all the other models tested using the 4 genres: "Rock","Hip-hop","Experimental" and "Electronic". To run it you need to produce the "data_4.pkl" file from the Data-Creation notebook and put it in the same folder as the notebook.
+Notebook containig all the other models tested using the 4 genres: "Rock","Hip-hop","Experimental" and "Electronic". To run it you need to produce the "data_4.pkl" file from the "Data-Creation.ipynb" notebook and put it in the same folder as the notebook.
+
+### Graph_project.ipynb
+
+Notebook containig the visualization of the genres. To run it you need to produce the "data.pkl" file from the "full_data_creation.ipynb" notebook and put it in the same folder as the notebook.
+
+### full_data_creation.ipynb
+
+Notebook extracting the whole data from the dataset and creating the "data.pkl" file.
+
+### Data-Creation.ipynb
+
+Notebook extracting the data from the dataset only for the 4 genres: "Rock","Hip-hop","Experimental" and "Electronic" and creating the "data_4.pkl" file.
